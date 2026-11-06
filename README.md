@@ -373,7 +373,7 @@ flowchart TD
 
 ## 🎥 Video
 
-Video Link : *add your demo video link here*
+Video Link : https://drive.google.com/drive/folders/1cPZBKBEs1actTUuvDB6t51DXOl9Nnzyi?usp=sharing
 
 ---
 
